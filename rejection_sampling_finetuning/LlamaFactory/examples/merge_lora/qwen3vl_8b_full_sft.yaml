@@ -1,0 +1,10 @@
+### model
+model_name_or_path: SFT_Model/Qwen3_VL_8B_BS1_LR1e-5_E5
+template: qwen2_vl
+trust_remote_code: true
+
+### export
+export_dir: SFT_Model_Export/Qwen3_VL_8B_BS1_LR1e-5_E5
+export_size: 5
+export_device: cpu  # choices: [cpu, auto]
+export_legacy_format: false
