@@ -84,7 +84,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="xxxxxxxxxxxxxxxxxxxxxxxxxx.json"
 export JINA_KEY="jina_xxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
-Download our model at [Ruiyang-061X/VSearcher-8B]().
+Download our model at [Ruiyang-061X/VSearcher-8B](https://huggingface.co/Ruiyang-061X/VSearcher-8B).
 
 ```bash
 hf download Ruiyang-061X/VSearcher-8B
